@@ -15,11 +15,11 @@
 
 
 <h2 align="center">
-    ─「 𝐌𝐎𝐎𝐍 𝗠𝗨𝗦𝗜𝗖 」─
+    ─「 𝐍𝐎𝐓𝐓𝐘𝐁𝐎𝐘 𝗠𝗨𝗦𝗜𝗖 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐌𝐎𝐎𝐍+🎭">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐍𝐎𝐓𝐓𝐘𝐁𝐎𝐘+🎭">
 
 
 <img src="https://telegra.ph/file/aa015718299510040d41f.jpg"> 
